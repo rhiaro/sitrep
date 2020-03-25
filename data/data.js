@@ -1,39 +1,45 @@
 var data = [
     {
-        "name": "Test",
-        "coordinates": [51.508, -0.11],
+        "name": "Sarande, Albania",
+        "coordinates": [39.52, 20.06],
         "visits": [
         {
-            "content": "This is a test place",
-            "startDate": "2020-01-01T09:00:00+01:00",
-            "endDate": "2020-03-07T09:00:00+01:00"
-        },
-        {
-            "content": "Another time I went to test",
-            "startDate": "2020-04-01T09:00:00+01:00",
-            "endDate": "2020-04-07T09:00:00+01:00"
+            "content": "Stuck under curfew, but the view is nice",
+            "startDate": "2020-02-12T09:00:00+01:00",
+            "endDate": Date.now()
         }
         ]
     },
     {
-        "name": "A place",
-        "coordinates": [21.51, -14.047],
+        "name": "London, UK",
+        "coordinates": [51.509865, -0.118092],
         "visits": [
         {
-            "content": "This is a definitely a place",
-            "startDate": "2020-01-07T09:00:00+01:00",
-            "endDate": "2020-01-09T18:00:00+01:00"
+            "content": "For some crypto thing",
+            "startDate": "2020-02-04T19:00:00+01:00",
+            "endDate": "2020-02-06T21:00:00+01:00"
         }
         ]
     },
     {
-        "name": "Somewhere",
-        "coordinates": [31.51, -111.047],
+        "name": "Sheffield, UK",
+        "coordinates": [53.383331, -1.466667],
         "visits": [
         {
-            "content": "Far away",
-            "startDate": "2019-12-10T09:00:00+01:00",
-            "endDate": "2020-01-10T18:00:00+01:00"
+            "content": "Staying out of Schengen for a while",
+            "startDate": "2020-01-04T09:00:00+01:00",
+            "endDate": "2020-02-04T18:00:00+01:00"
+        }
+        ]
+    },
+    {
+        "name": "Paris, France",
+        "coordinates": [48.864716, 2.349014],
+        "visits": [
+        {
+            "content": "New Year's",
+            "startDate": "2019-12-28T09:00:00+01:00",
+            "endDate": "2020-01-03T22:00:00+01:00"
         }
         ]
     }
