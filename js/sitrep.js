@@ -123,6 +123,14 @@ var map = new L.Map("themap", {
 });
 map.addLayer(layer);
 
+var latlonpopup = L.popup();
+map.on('click', function(e){
+    latlonpopup
+        .setLatLng(e.latlng)
+        .setContent(e.latlng.toString())
+        .openOn(map);
+});
+
 var table = document.getElementById("thetable");
 
 // data is from data.js

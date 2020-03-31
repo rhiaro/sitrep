@@ -30,7 +30,6 @@
         position: relative;
     }
     header hgroup {
-        position: absolute; bottom: 0;
         width: 100%;
     }
     header h1 {
@@ -64,10 +63,12 @@
     tr {
         border-bottom: 1px solid #f2f2f2;
     }
-    footer, footer a {
-        height: 100px;
+    footer {
         font-size: 0.8em;
         text-align: right;
         font-family: sans-serif;
+        padding: 0; margin: 0;
+    }
+    footer a {
         color: black;
     }
