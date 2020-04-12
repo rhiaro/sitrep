@@ -65,4 +65,111 @@ var data = [
         }
         ]
     },
+    {
+        "name": "Prague, Czech Republic",
+        "coordinates": [50.0755, 14.4378],
+        "visits": [
+            {
+                "content": "Coding for Christmas",
+                "startDate": "2019-12-24T09:00:00+01:00",
+                "endDate": "2019-12-27T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Burgas, Bulgaria",
+        "coordinates": [42.5048, 27.4626],
+        "visits": [
+            {
+                "content": "Beach coding",
+                "startDate": "2019-11-22T09:00:00+01:00",
+                "endDate": "2019-12-14T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Istanbul, Turkey",
+        "coordinates": [41.0082, 28.9784],
+        "visits": [
+            {
+                "content": "Escape to Turkey for a Turkish bath",
+                "startDate": "2019-12-14T09:00:00+01:00",
+                "endDate": "2019-12-16T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Burgas, Bulgaria",
+        "coordinates": [42.5048, 27.4626],
+        "visits": [
+            {
+                "content": "Back to the beach",
+                "startDate": "2019-12-16T09:00:00+01:00",
+                "endDate": "2019-12-24T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Montenegro, Cetinje",
+        "coordinates": [42.3931, 18.9116],
+        "visits": [
+            {
+                "content": "Hiking in the mountains",
+                "startDate": "2019-11-01T09:00:00+01:00",
+                "endDate": "2019-11-21T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Germany, Frankfurt",
+        "coordinates": [50.1109, 8.6821],
+        "visits": [
+            {
+            
+                "content": "The bus drove away with my laptop!",
+                "startDate": "2019-10-28T09:00:00+01:00",
+                "endDate": "2019-11-01T09:00:00+01:00"
+            
+            }
+        ]
+    },
+    {
+        "name": "London",
+        "coordinates": [51.5074, 0.1278],
+        "visits": [
+            {
+            
+            
+                "content": "Mozfest and DeFi conferences",
+                "startDate": "2019-10-21T09:00:00+01:00",
+                "endDate": "2019-10-28T09:00:00+01:00"
+            }
+        ]
+    },
+    {
+        "name": "Germany, Berlin",
+        "coordinates": [52.5200, 13.4050],
+        "visits": [
+            {
+            
+                "content": "Lightning Conference",
+                "startDate": "2019-10-17T09:00:00+01:00",
+                "endDate": "2019-10-21T09:00:00+01:00"
+            
+            }
+        ]
+    },
+    {
+        "name": "Czech Republic, Prague",
+        "coordinates": [49.8175, 15.4730],
+        "visits": [
+            {
+            
+                "content": "RWOT and some downtime",
+                "startDate": "2019-10-01T09:00:00+01:00",
+                "endDate": "2019-10-17T09:00:00+01:00"
+            
+            }
+        ]
+    },
 ];
