@@ -164,12 +164,75 @@ var data = [
         "coordinates": [49.8175, 15.4730],
         "visits": [
             {
-            
                 "content": "RWOT and some downtime",
-                "startDate": "2019-10-01T09:00:00+01:00",
+                "startDate": "2019-09-01T09:00:00+01:00",
                 "endDate": "2019-10-17T09:00:00+01:00"
-            
             }
         ]
     },
+    {
+        "name": "Vienna",
+        "coordinates": [48.2082, 16.3738],
+        "visits": [
+            {
+                "content": "Pre RWOT and beer with Markus",
+                "startDate": "2019-08-26T09:00:00+01:00",
+                "endDate": "2019-09-01T09:00:00+01:00"
+            }
+        ]
+    },
+
+    //18th Aug 2019 to 19th Aug 2019: One night's shelter in Trpejca (Lake Ohrid) (1100mkd)
+    //15th Aug 2019 to 23rd Aug 2019: Ten more days shelter in Skopje (6800mkd)
+    //14th Aug 2019 to 15th Aug 2019: One night's shelter in Belgrade (0rsd)
+    //11th Aug 2019 to 13th Aug 2019: Two night's shelter for two in Split (820hrk)
+
+    // meet in kotor
+
+    {
+        "name": "Frankfurt",
+        "coordinates": [50.1109, 8.6821],
+        "visits": [
+            {
+                "content": "Just sleeping here for a night",
+                "startDate": "2019-06-17",
+                "endDate": "2019-06-18"
+            }
+        ]
+    },
+    {
+        "name": "Amsterdam",
+        "coordinates": [52.3667, 4.8945],
+        "visits": [
+            {
+                "content": "Moodle Master",
+                "startDate": "2019-06-16",
+                "endDate": "2019-06-17"
+            }
+        ]
+    },
+    {
+        "name": "Zwolle",
+        "coordinates": [52.5168, 6.0830],
+        "visits": [
+            {
+                "content": "Bike excursion",
+                "startDate": "2019-06-15",
+                "endDate": "2019-06-16"
+            }
+        ]
+    },
+
+    {
+        "name": "Amsterdam",
+        "coordinates": [52.3667, 4.8945],
+        "visits": [
+            {
+                "content": "Breaking Bitcoin",
+                "startDate": "2019-06-07",
+                "endDate": "2019-06-15"
+            }
+        ]
+    },
+
 ];
