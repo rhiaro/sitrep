@@ -22,7 +22,7 @@ var data = [
         ]
     },
     {
-        "name": "Amsterdam",
+        "name": "Amsterdam, Netherlands",
         "coordinates": [52.3667, 4.8945],
         "visits": [
         {
@@ -134,7 +134,7 @@ var data = [
         ]
     },
     {
-        "name": "London",
+        "name": "London, UK",
         "coordinates": [51.5074, 0.1278],
         "visits": [
             {
@@ -164,18 +164,18 @@ var data = [
         "coordinates": [49.8175, 15.4730],
         "visits": [
             {
-                "content": "RWOT and some downtime",
+                "content": "Rebooting Web of Trust and some downtime",
                 "startDate": "2019-09-01T09:00:00+01:00",
                 "endDate": "2019-10-17T09:00:00+01:00"
             }
         ]
     },
     {
-        "name": "Vienna",
+        "name": "Vienna, Austria",
         "coordinates": [48.2082, 16.3738],
         "visits": [
             {
-                "content": "Pre RWOT and beer with Markus",
+                "content": "Pre Rebooting Web of Trust Meetup and beer with Markus",
                 "startDate": "2019-08-26T09:00:00+01:00",
                 "endDate": "2019-09-01T09:00:00+01:00"
             }
@@ -190,7 +190,7 @@ var data = [
     // meet in kotor
 
     {
-        "name": "Frankfurt",
+        "name": "Germany, Frankfurt",
         "coordinates": [50.1109, 8.6821],
         "visits": [
             {
@@ -201,7 +201,7 @@ var data = [
         ]
     },
     {
-        "name": "Amsterdam",
+        "name": "Amsterdam, Netherlands",
         "coordinates": [52.3667, 4.8945],
         "visits": [
             {
@@ -224,11 +224,11 @@ var data = [
     },
 
     {
-        "name": "Amsterdam",
+        "name": "Amsterdam, Netherlands",
         "coordinates": [52.3667, 4.8945],
         "visits": [
             {
-                "content": "Breaking Bitcoin",
+                "content": "Breaking Bitcoin Conference",
                 "startDate": "2019-06-07",
                 "endDate": "2019-06-15"
             }
