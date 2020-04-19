@@ -188,14 +188,54 @@ var data = [
             }
         ]
     },
+
+    //Tirana - 13 -15
+
     {
         "name": "Skopje",
         "coordinates": [41.9981, 21.4254],
         "visits": [
             {
+                "content": "Wow is it hot in hear",
+                "startDate": "2019-07-15",
+                "endDate": "2019-07-22"
+            },
+            {
+                "content": "Wow is it hot in hear",
+                "startDate": "2019-07-24",
+                "endDate": "2019-08-04"
+            },
+            {
+                "content": "Remote BTCR Hackathon",
+                "startDate": "2019-08-06",
+                "endDate": "2019-08-11"
+            },
+            {
                 "content": "Surving the heat (barely)",
                 "startDate": "2019-08-15",
                 "endDate": "2019-08-23"
+            }
+        ]
+    },
+    {
+        "name": "Prishtina",
+        "coordinates": [42.6629, 21.1655],
+        "visits": [
+            {
+                "content": "There's a statue of Bill Clinton here?!",
+                "startDate": "2019-08-04",
+                "endDate": "2019-08-06"
+            }
+        ]
+    },
+    {
+        "name": "Matka Canyon",
+        "coordinates": [41.5624, 21.1800],
+        "visits": [
+            {
+                "content": "Kayaking",
+                "startDate": "2019-07-22",
+                "endDate": "2019-07-24"
             }
         ]
     },
@@ -221,6 +261,28 @@ var data = [
             }
         ]
     },
+    {
+        "name": "Kotor",
+        "coordinates": "",
+        "visits": [
+            {
+                "content": "",
+                "": "6-28",
+                "": "7-7"
+            }
+        ]
+    },
+    {
+        "name": "Njeguši",
+        "coordinates": [42.4338, 18.8102],
+        "visits": [
+            {
+                "content": "Hiking in the mountains (Lovcen)",
+                "": "7-7",
+                "": "7-14"
+            }
+        ]
+    }
     {
         "name": "Zwolle",
         "coordinates": [52.5168, 6.0830],
