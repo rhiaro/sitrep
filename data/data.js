@@ -263,12 +263,12 @@ var data = [
     },
     {
         "name": "Kotor",
-        "coordinates": "",
+        "coordinates": [42.4247, 18.7712],
         "visits": [
             {
-                "content": "",
-                "": "6-28",
-                "": "7-7"
+                "content": "Hanging out by the bay of Kotor",
+                "startDate": "2019-06-28",
+                "endDate": "2019-07-07"
             }
         ]
     },
@@ -278,11 +278,11 @@ var data = [
         "visits": [
             {
                 "content": "Hiking in the mountains (Lovcen)",
-                "": "7-7",
-                "": "7-14"
+                "startDate": "2019-07-07",
+                "endDate": "2019-07-14"
             }
         ]
-    }
+    },
     {
         "name": "Zwolle",
         "coordinates": [52.5168, 6.0830],
@@ -293,5 +293,5 @@ var data = [
                 "endDate": "2019-06-16"
             }
         ]
-    },
+    }
 ];
