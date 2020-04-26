@@ -118,8 +118,8 @@ function timeToColor(days){
 
 var layer = new L.StamenTileLayer("watercolor");
 var map = new L.Map("themap", {
-    center: new L.LatLng(37.7, -37),
-    zoom: 3
+    center: new L.LatLng(48.1486, 17.1077),
+    zoom: 4
 });
 map.addLayer(layer);
 
