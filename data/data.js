@@ -1,6 +1,6 @@
 var data = [
     {
-        "name": "Sarande, Albania",
+        "name": "Albania, Sarande" ,
         "coordinates": [39.52, 20.06],
         "visits": [
         {
@@ -11,7 +11,7 @@ var data = [
         ]
     },
     {
-        "name": "London, UK",
+        "name": "UK, London",
         "coordinates": [51.509865, -0.118092],
         "visits": [
             {
@@ -27,7 +27,7 @@ var data = [
         ]
     },
     {
-        "name": "Amsterdam, Netherlands",
+        "name": "Netherlands, Amsterdam",
         "coordinates": [52.3667, 4.8945],
         "visits": [
             {
@@ -48,7 +48,7 @@ var data = [
         ]
     },
     {
-        "name": "Buxton, UK",
+        "name": "UK, Buxton",
         "coordinates": [53.2591, 1.9148],
         "visits": [
             {
@@ -59,7 +59,7 @@ var data = [
         ]
     },
     {
-        "name": "Sheffield, UK",
+        "name": "UK, Sheffield",
         "coordinates": [53.383331, -1.466667],
         "visits": [
         {
@@ -70,7 +70,7 @@ var data = [
         ]
     },
     {
-        "name": "Paris, France",
+        "name": "France, Paris",
         "coordinates": [48.864716, 2.349014],
         "visits": [
         {
@@ -81,7 +81,7 @@ var data = [
         ]
     },
     {
-        "name": "Prague, Czech Republic",
+        "name": "Czech Republic, Prague",
         "coordinates": [50.0755, 14.4378],
         "visits": [
             {
@@ -97,7 +97,7 @@ var data = [
         ]
     },
     {
-        "name": "Burgas, Bulgaria",
+        "name": "Bulgaria, Burgas",
         "coordinates": [42.5048, 27.4626],
         "visits": [
             {
@@ -108,7 +108,7 @@ var data = [
         ]
     },
     {
-        "name": "Istanbul, Turkey",
+        "name": "Turkey, Istanbul",
         "coordinates": [41.0082, 28.9784],
         "visits": [
             {
@@ -119,7 +119,7 @@ var data = [
         ]
     },
     {
-        "name": "Burgas, Bulgaria",
+        "name": "Bulgaria, Burgas",
         "coordinates": [42.5048, 27.4626],
         "visits": [
             {
@@ -167,7 +167,7 @@ var data = [
         ]
     },
     {
-        "name": "Vienna, Austria",
+        "name": "Austria, Vienna",
         "coordinates": [48.2082, 16.3738],
         "visits": [
             {
@@ -178,7 +178,7 @@ var data = [
         ]
     },
     {
-        "name": "Trpejca (Lake Ohrid)",
+        "name": "Macedonia, Trpejca (Lake Ohrid)",
         "coordinates": [40.9606, 20.7830],
         "visits": [
             {
@@ -188,11 +188,19 @@ var data = [
             }
         ]
     },
-
-    //Tirana - 13 -15
-
     {
-        "name": "Skopje",
+        "name": "Albania, Tirana",
+        "coordinates": [41.3275, 19.8187],
+        "visits": [
+            {
+                "content": "Weekend in Tirana",
+                "startDate": "2019-07-13",
+                "endDate": "2019-07-15"
+            }
+        ]
+    },
+    {
+        "name": "Macedonia, Skopje",
         "coordinates": [41.9981, 21.4254],
         "visits": [
             {
@@ -218,7 +226,7 @@ var data = [
         ]
     },
     {
-        "name": "Prishtina",
+        "name": "Kosovo, Pristina",
         "coordinates": [42.6629, 21.1655],
         "visits": [
             {
@@ -229,7 +237,7 @@ var data = [
         ]
     },
     {
-        "name": "Matka Canyon",
+        "name": "Macedonia, Matka Canyon",
         "coordinates": [41.5624, 21.1800],
         "visits": [
             {
@@ -240,7 +248,7 @@ var data = [
         ]
     },
     {
-        "name": "Belgrade",
+        "name": "Serbia, Belgrade",
         "coordinates": [44.7866, 20.4489],
         "visits": [
             {
@@ -251,7 +259,7 @@ var data = [
         ]
     },
     {
-        "name": "Split",
+        "name": "Croatia, Split",
         "coordinates": [43.5081, 16.4402],
         "visits" : [
             {
@@ -262,7 +270,7 @@ var data = [
         ]
     },
     {
-        "name": "Kotor",
+        "name": "Montenegro, Kotor",
         "coordinates": [42.4247, 18.7712],
         "visits": [
             {
@@ -273,7 +281,7 @@ var data = [
         ]
     },
     {
-        "name": "Njeguši",
+        "name": "Montenegro, Njeguši",
         "coordinates": [42.4338, 18.8102],
         "visits": [
             {
@@ -284,13 +292,123 @@ var data = [
         ]
     },
     {
-        "name": "Zwolle",
+        "name": "Netherlands, Zwolle",
         "coordinates": [52.5168, 6.0830],
         "visits": [
             {
                 "content": "Bike excursion",
                 "startDate": "2019-06-15",
                 "endDate": "2019-06-16"
+            }
+        ]
+    },
+    {
+        "name": "Montenegro, Bijela",
+        "coordinates": [42.4573, 18.6443],
+        "visits": [
+            {
+                "content": "Staying in a small place by the sea",
+                "startDate": "2019-06-01",
+                "endDate": "2019-06-06"
+            }
+        ]
+    },
+    {
+        "name": "Romania, Constanța",
+        "coordinates": [44.1598, 28.6348],
+        "visits": [
+            {
+                "content": "Roaming in Romania",
+                "startDate": "2019-05-03",
+                "endDate": "2019-05-30"
+            }
+        ]
+    },
+    {
+        "name": "Slovakia, Bratislava",
+        "coordinates": [48.1486, 17.1077],
+        "visits": [
+            {
+                "content": "Nice stay in a container house",
+                "startDate": "2019-04-12",
+                "endDate": "2019-05-02"
+            }
+        ]
+    },
+    {
+        "name": "Poland, Warsaw",
+        "coordinates": [52.2297, 21.0122],
+        "visits": [
+            {
+                "content": "Sleeping in the squats by night, coding in a WeWork by day",
+                "startDate": "2019-04-05",
+                "endDate": "2019-04-12"
+            }
+        ]
+    },
+    {
+        "name": "Poland, Krakow",
+        "coordinates": [50.0647, 19.9450],
+        "visits": [
+            {
+                "content": "Visiting some buddhist meditation center",
+                "startDate": "2019-03-28",
+                "endDate": "2019-04-05"
+            }
+        ]
+    },
+    {
+        "name": "Hungry, Budapest",
+        "coordinates": [47.4979, 19.0402],
+        "visits": [
+            {
+                "content": "Eating dank vegan pizza",
+                "startDate": "2019-03-23",
+                "endDate": "2019-03-27"
+            }
+        ]
+    },
+    {
+        "name": "Slovenia, Ljubljana",
+        "coordinates": [46.0569, 14.5058],
+        "visits": [
+            {
+                "content": "Ljubljana is also nice",
+                "startDate": "2019-03-20",
+                "endDate": "2019-03-23"
+            }
+        ]
+    },
+    {
+        "name": "France, Nice",
+        "coordinates": [43.7102, 7.2620],
+        "visits": [
+            {
+                "content": "Minnesota nice in Nice",
+                "startDate": "2019-03-16",
+                "endDate": "2019-03-19"
+            }
+        ]
+    },
+    {
+        "name": "Spain, Girona",
+        "coordinates": [41.9794, 2.8214],
+        "visits": [
+            {
+                "content": "M-m-m-y Girona",
+                "startDate": "2019-03-10",
+                "endDate": "2019-03-15"
+            }
+        ]
+    },
+    {
+        "name": "Spain, Barcelona",
+        "coordinates": [40.4637, 3.7492],
+        "visits": [
+            {
+                "content": "Rebooting the web of trust",
+                "startDate": "2019-03-01",
+                "endDate": "2019-03-10"
             }
         ]
     }
