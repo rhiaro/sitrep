@@ -20,7 +20,7 @@ var data = [
                 "endDate": "2020-02-08T21:00:00+01:00"
             },
             {
-                "content": "Mozfest and DeFi conferences",
+                "content": "Mozfest and Redecentralize conferences",
                 "startDate": "2019-10-21T09:00:00+01:00",
                 "endDate": "2019-10-28T09:00:00+01:00"
             }
