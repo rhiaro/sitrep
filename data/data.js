@@ -204,12 +204,12 @@ var data = [
         "coordinates": [41.9981, 21.4254],
         "visits": [
             {
-                "content": "Wow is it hot in hear",
+                "content": "Wow is it hot in here",
                 "startDate": "2019-07-15",
                 "endDate": "2019-07-22"
             },
             {
-                "content": "Wow is it hot in hear",
+                "content": "Wow is it hot in here",
                 "startDate": "2019-07-24",
                 "endDate": "2019-08-04"
             },
@@ -219,7 +219,7 @@ var data = [
                 "endDate": "2019-08-11"
             },
             {
-                "content": "Surving the heat (barely)",
+                "content": "Surviving the heat (barely)",
                 "startDate": "2019-08-15",
                 "endDate": "2019-08-23"
             }
