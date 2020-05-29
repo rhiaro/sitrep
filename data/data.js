@@ -21,7 +21,7 @@ var data = [
         ]
     },
     {
-        "name": "Llogara National Park",
+        "name": "Albania, Llogara National Park",
         "coordinates": [40.2145, 19.5809],
         "visits": [
             {
@@ -32,7 +32,7 @@ var data = [
         ]
     },
     {
-        "name": "Himarë",
+        "name": "Albania, Himarë",
         "coordinates": [40.1035, 19.7502],
         "visits": [
             {
@@ -43,7 +43,7 @@ var data = [
         ]
     },
     {
-        "name": "Përmet",
+        "name": "Albania, Përmet",
         "coordinates": [40.2362, 20.3517],
         "visits": [
             {
