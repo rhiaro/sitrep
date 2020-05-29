@@ -3,11 +3,54 @@ var data = [
         "name": "Albania, Sarande" ,
         "coordinates": [39.52, 20.06],
         "visits": [
-        {
-            "content": "Stuck under curfew, but the view is nice",
-            "startDate": "2020-02-12T09:00:00+01:00",
-            "endDate": Date.now()
-        }
+            {
+                "content": "Stuck under curfew, but the view is nice",
+                "startDate": "2020-02-12T09:00:00+01:00",
+                "endDate": "2020-05-18"
+            },
+            {
+                "content": "Stuck under curfew, but the view is nice",
+                "startDate": "2020-05-22",
+                "endDate": "2020-05-23"
+            },
+            {
+                "content": "Stuck under curfew, but the view is nice",
+                "startDate": "2020-05-25",
+                "endDate": Date.now()
+            },
+        ]
+    },
+    {
+        "name": "Llogara National Park",
+        "coordinates": [40.2145, 19.5809],
+        "visits": [
+            {
+                "content": "Hiking in Llogara National Park",
+                "startDate": "2020-05-18",
+                "endDate": "2020-05-20"
+            }
+        ]
+    },
+    {
+        "name": "Himarë",
+        "coordinates": [40.1035, 19.7502],
+        "visits": [
+            {
+                "content": "Visiting other American Pandemic survivors",
+                "startDate": "2020-05-20",
+                "endDate": "2020-05-22"
+            }
+        ]
+    },
+    {
+        "name": "Përmet",
+        "coordinates": [40.2362, 20.3517],
+        "visits": [
+            {
+                "content": "Relaxing in the hot springs",
+                "startDate": "2020-05-23",
+                "endDate": "2020-05-25"
+            }
         ]
     },
     {
