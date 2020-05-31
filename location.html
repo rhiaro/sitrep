@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="">
+  <link rel="stylesheet" href="css/sitrep.css" />
+
+  <title>where is yancy</title>
+</head>
+<body>
+  <header>
+    <hgroup>
+      <h1>where is yancy</h1>
+      <h2>keep up to date on yancy's travels</h2>
+    </hgroup>
+  </header>
+
+  <div id="themap"></div>
+  <div id="tablewrapper">
+    <table>
+      <thead>
+        <tr>
+          <th class="sort" data-sort="where">Where</th>
+          <th class="sort" data-sort="when">When</th>
+          <th class="sort" data-sort="until">Until</th>
+          <th class="sort" data-sort="for">For</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody class="list" id="thetable"></tbody>
+    </table>
+  </div>
+
+  <footer>
+    <p><a href="https://github.com/rhiaro/sitrep">SitRep on Github</a>.</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+  <script src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+  <script src="data/data.js"></script>
+  <script src="js/svg-icon.js"></script>
+  <script src="js/sitrep.js"></script>
+</body>
+</html>
+
